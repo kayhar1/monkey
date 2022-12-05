@@ -1,0 +1,19 @@
+
+@mixin icon{
+  color: rgba(255, 255, 255, 0.55);
+  margin: 0 15px;
+
+}
+
+@mixin text{
+  font-weight: 500;
+  font-size: 20px;
+  color: #EEB563;
+  text-align: center;
+}
+@mixin paragraph{
+  font-weight: 500;
+  font-size: 32px;
+  color: #FFFFFF;
+  text-align: center;
+}
